@@ -1,7 +1,7 @@
 HTML5 - Я могу легко работать в HTML5. Я могу правильно строить архитектуру, используя теги и div.
 
 CSS,SCSS, SACC, Styled components, Tailwind CSS - Я могу предоставить адаптивный стиль для всех размеров 
-гаджетов. Я также могу создавать повторно используемые уникальные компоненты, используя Styledcomponents. Места, которые я использовал в своихпроектах:
+гаджетов. Я также могу создавать повторно используемые уникальные компоненты, используя Styled-components. Места, которые я использовал в своихпроектах:
 SCSS - https://github.com/sukhrobfullstackdev/uzasbo_balans_front-dev/tree/master/src/assets/scss ,
 https://github.com/sukhrobfullstackdev/uzasbo_zp_front/tree/master/src/assets/scss ,
 https://github.com/sukhrobfullstackdev/hr-mf/tree/master/src/styles .
@@ -55,7 +55,7 @@ https://github.com/sukhrobfullstackdev/webpack-demo-app .
 React Testing Library, React tests,User Event, Jest - обладаю опытом написания тестов с использованием React
 Testing Library, React tests, User Event и Jest. Мой подход к написанию тестов заключается в создании понятных,
 подробных и надежных тестов, которые покрывают различные сценарии использования и помогают 
-обнаруживать и предотвращать ошибки в коде. https://github.com/sukhrobfullstackdev/react-testing-userevent-jest .
+обнаруживать и предотвращать ошибки в коде. https://github.com/sukhrobfullstackdev/react-testing-user-event-jest .
 
 Docker - Успешно развертывал проекты с использованием Docker и обладаю опытом работы с ним для 
 создания контейнеризованных приложений. Написывал Dockerfile для определения инструкций по сборке образа 
