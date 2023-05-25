@@ -12,6 +12,7 @@ https://github.com/sukhrobfullstackdev/erp-frontend/tree/master/src/components .
 Javascript, ES6 - У меня большой опыт работы с Javascript. Я могу работать со всеми концепции. Среди них 
 асинхронный и синхронный Javascript, деструктурирование, операторы “Spread and Rest”, стрелочные функции, 
 промисы, Fetch API и другие. Многие проекты на моем Github сделаны на Javascript.
+
 Typescript - Могу работать в Typescript так же легко и эффективно, как и в Javascript и использовать Type,
 Interface, Class, Enum и т. д. в Typescript. Проекты, выполненные в Typescript и для будущего внедрения:
 https://github.com/sukhrobfullstackdev/react-fast-2022 , https://github.com/sukhrobfullstackdev/ts-react-third , и
