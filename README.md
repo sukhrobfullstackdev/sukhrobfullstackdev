@@ -1,63 +1,23 @@
-HTML5 - Я могу легко работать в HTML5. Я могу правильно строить архитектуру, используя теги и div.
+I am proficient in creating semantic markup using HTML5. My expertise lies in understanding and applying the correct semantic elements, ensuring that the web pages I develop are not only structurally sound but also accessible and SEO-friendly.
 
-CSS,SCSS, SACC, Styled components, Tailwind CSS - Я могу предоставить адаптивный стиль для всех размеров 
-гаджетов. Я также могу создавать повторно используемые уникальные компоненты, используя Styled-components. Места, которые я использовал в своихпроектах:
-SCSS - https://github.com/sukhrobfullstackdev/uzasbo_balans_front-dev/tree/master/src/assets/scss ,
-https://github.com/sukhrobfullstackdev/uzasbo_zp_front/tree/master/src/assets/scss ,
-https://github.com/sukhrobfullstackdev/hr-mf/tree/master/src/styles .
-Styled Components - https://github.com/sukhrobfullstackdev/hr-mf/tree/master/src/styleComponents ,
-https://github.com/sukhrobfullstackdev/erp-frontend/tree/master/src/theme (Theme and Global Styles),
-https://github.com/sukhrobfullstackdev/erp-frontend/tree/master/src/components .
+In CSS, SCSS, SASS, Styled components, and Tailwind CSS, I can provide adaptive styles for all device sizes. I can also create reusable and unique components using Styled-components. Projects where I used these technologies include SCSS in Uzasbo Balans Front-dev, Uzasbo ZP Front, and HR MF. For Styled Components, see HR MF, ERP Frontend (Theme and Global Styles), and ERP Frontend Components.
 
-Javascript, ES6 - У меня большой опыт работы с Javascript. Я могу работать со всеми концепции. Среди них 
-асинхронный и синхронный Javascript, деструктурирование, операторы “Spread and Rest”, стрелочные функции, 
-промисы, Fetch API и другие. Многие проекты на моем Github сделаны на Javascript.
+I have extensive experience with JavaScript, including all its concepts such as asynchronous and synchronous JavaScript, destructuring, “Spread and Rest” operators, arrow functions, promises, Fetch API, and others. Many projects on my GitHub are built using JavaScript.
 
-Typescript - Могу работать в Typescript так же легко и эффективно, как и в Javascript и использовать Type,
-Interface, Class, Enum и т. д. в Typescript. Проекты, выполненные в Typescript и для будущего внедрения:
-https://github.com/sukhrobfullstackdev/react-fast-2022 , https://github.com/sukhrobfullstackdev/ts-react-third , и
-тестирования для Typescript проектирования: https://github.com/sukhrobfullstackdev/react-testing-user-event- jest .
+I am equally skilled in TypeScript, comfortably using Types, Interfaces, Classes, Enums, etc. Projects completed in TypeScript include React Fast 2022, TS React Third, and testing for TypeScript projects React Testing User Event Jest.
 
-React JS - У меня более 2 лет опыта работы с React JS. Я могу легко работать с функциональными компонентами
-и компонентами классов в React JS. Я знаю, как работают React Hooks, Props Drill, методы жизненного цикла,
-React Router, Hooks, виртуальный DOM, тестирование, экосистема React и так далее. Я сделал много проектовв 
-React JS. Некоторые из моих реальных проектов уже доставлены клиентам, над которыми я работал:
-https://github.com/sukhrobfullstackdev/hr-mf , https://github.com/sukhrobfullstackdev/uzasbo_balans_front-dev ,
-https://github.com/sukhrobfullstackdev/erp-frontend , https://github.com/sukhrobfullstackdev/uzasbo_zp_front .
+With over 4 years of experience in React JS, I am proficient in working with both functional components and class components. I understand React Hooks, Props Drill, lifecycle methods, React Router, Hooks, Virtual DOM, testing, and the React ecosystem. Some of the real projects I have delivered to clients include HR MF, Uzasbo Balans Front-dev, ERP Frontend, and Uzasbo ZP Front.
 
-Redux,Redux-Toolkit, React-Redux, Redux Saga,Redux Thunk, RTK Query, Async Thunk - Разработал несколько 
-проектов с использованием с этими библиотеками. Использовал Redux-Toolkit дляупрощения процесса
-разработки с помощью предварительно настроенных инструментов, таких как createSlice и createAsyncThunk. 
-Это позволило мне создавать и поддерживать код с меньшим объемом и повышенной читаемостью.
-Использовал Redux Saga для управления побочными эффектами и асинхроннымиоперациями. Создавал саги
-для обработки сетевых запросов, диспетчеризации действий и контроля асинхронного потока данных. Внедрял
-RTK Query для упрощения работы с сетевыми запросами и
-кэширования данных. Создавал схемы запросов и автоматически генерировал хуки для взаимодействия с
-сервером. Проекты, которые я сделал с использованием этих библиотек -
-https://github.com/sukhrobfullstackdev/uzasbo_balans_front-dev ,
-https://github.com/sukhrobfullstackdev/uzasbo_zp_front , https://github.com/sukhrobfullstackdev/hr-mf ,
-https://github.com/sukhrobfullstackdev/erp-frontend ,
-https://github.com/sukhrobfullstackdev/reduc_saga_crud_example ,
-https://github.com/sukhrobfullstackdev/redux_saga_practice project ,
-https://github.com/sukhrobfullstackdev/rtk_qury_toolkit_practice ,
-https://github.com/sukhrobfullstackdev/redux_working_with_async_thunks_toolkit . Мой опыт работы с этими
-технологиями и библиотеками позволяет мне эффективно работать с Redux и обеспечивать надежное
-управление состоянием приложения.
+I have developed several projects using Redux, Redux-Toolkit, React-Redux, Redux Saga, Redux Thunk, RTK Query, and Async Thunk. I have utilized Redux-Toolkit to simplify the development process with preconfigured tools like createSlice and createAsyncThunk, which has allowed me to create and maintain code with less bulk and increased readability. I have used Redux Saga for managing side effects and asynchronous operations, creating sagas for network requests, dispatching actions, and controlling asynchronous data flow. I have implemented RTK Query for simplifying working with network requests and data caching, creating query schemes and automatically generating hooks for server interaction. Projects that I have done using these libraries include Uzasbo Balans Front-dev, Uzasbo ZP Front, HR MF, ERP Frontend, Redux Saga CRUD Example, Redux Saga Practice Project, RTK Query Toolkit Practice, and Redux Working with Async Thunks Toolkit. My experience with these technologies and libraries allows me to work efficiently with Redux and ensure reliable state management of applications.
 
-Next JS - Выполнил несколько проектов с использованием Next.js и обладаю опытом в следующих концепциях:
-серверный рендеринг (SSR), статическая генерация сайта (SSG), Routing и Data Fetching. Обладаю
-эффективными навыками работы с ними.
+I have completed several projects using Next.js and am experienced in concepts like Server-Side Rendering (SSR), Static Site Generation (SSG), Routing, and Data Fetching.
 
-Webpack, Webpack CLI - Cобирал несколько проектов с использованием Webpack и обладаю навыками
-эффективной работы с ним. Конфигурация Webpack, Loaders , Plugins, Extensions -
-https://github.com/sukhrobfullstackdev/webpack-demo-app .
+I have compiled several projects using Webpack and am skilled in working with it effectively. Webpack configuration, Loaders, Plugins, Extensions can be found in Webpack Demo App.
 
-React Testing Library, React tests,User Event, Jest - обладаю опытом написания тестов с использованием React
-Testing Library, React tests, User Event и Jest. Мой подход к написанию тестов заключается в создании понятных,
-подробных и надежных тестов, которые покрывают различные сценарии использования и помогают 
-обнаруживать и предотвращать ошибки в коде. https://github.com/sukhrobfullstackdev/react-testing-user-event-jest .
+I have experience writing tests using the React Testing Library, React tests, User Event, and Jest. My approach to writing tests involves creating understandable, detailed, and robust tests that cover various use cases and help detect and prevent errors in the code. You can see my work in React Testing User Event Jest.
 
-Docker - Успешно развертывал проекты с использованием Docker и обладаю опытом работы с ним для 
-создания контейнеризованных приложений. Написывал Dockerfile для определения инструкций по сборке образа 
-контейнера. В файле указывал необходимые зависимости, настройки окружения и запускаемые команды для 
-настройки и запуска приложения внутри контейнера
+I have successfully deployed projects using Docker and have experience working with it for creating containerized applications. I wrote Dockerfiles to define container image build instructions, specifying necessary dependencies, environment settings, and commands for setting up and running the application inside the container.
+
+Additionally, I am skilled in GraphQL and Apollo Server, adept at creating efficient, scalable APIs using GraphQL schemas, resolving queries and mutations, and integrating Apollo Server for seamless backend operations.
+
+In Angular, I have a strong command over its core concepts, including components, services, directives, and modules. I have effectively used Angular's powerful features like two-way data binding, dependency injection, and observables in various projects
