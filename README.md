@@ -1,4 +1,6 @@
 👋 Hi, I'm Sukhrobbek!
+
+
 🚀 Senior Full Stack Developer | JavaScript | TypeScript | React | Node.js
 
 🔹 Passionate about building scalable, high-performance web applications
@@ -8,7 +10,10 @@
 🔹 Committed to writing clean, maintainable, and efficient code
 
 🛠 Tech Stack & Expertise
+
+
 🌐 Frontend Development
+
 
 ✅ HTML5 & Semantic Markup – Structuring web pages for accessibility & SEO
 
@@ -23,6 +28,8 @@
 ✅ Angular – Components, Services, Directives, Observables
 
 💻 Backend Development
+
+
 ✅ Node.js & Express.js – REST API development, authentication, middleware
 
 ✅ GraphQL & Apollo Server – Efficient API development & schema design
@@ -32,6 +39,8 @@
 ✅ Docker – Containerized applications & deployment
 
 ⚙️ Tools & DevOps
+
+
 ✅ Webpack – Configuration, Loaders, Plugins
 
 ✅ Testing – Jest, React Testing Library, User Event
